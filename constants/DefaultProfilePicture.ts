@@ -1,0 +1,1 @@
+export const DefaultProfilePic = 'https://revistamotoryvolante.files.wordpress.com/2019/09/twitter-bird-white-on-blue.jpg';
